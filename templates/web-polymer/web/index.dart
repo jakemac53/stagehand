@@ -2,7 +2,7 @@
 // is governed by a BSD-style license that can be found in the LICENSE file.
 library my_project.web.index;
 
-import 'package:{{projectName}}/main_app.dart';
+import 'package:project_name/main_app.dart';
 import 'package:polymer/polymer.dart';
 
 /// [MainApp] used!
